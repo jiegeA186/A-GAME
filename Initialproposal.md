@@ -2,23 +2,20 @@
 
 ## What will (likely) be the title of your project?
 
-“The Dawn”
+“Mushroom Land”
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A 2D SLG survival game。
+A 2D RPG using UE5。(Due to Technical issue has to follow a blueprint but deciding to add further to the project)
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
 The Project that I propose will be using Unity Engine 5 to create a small 2D game that mostly about managing resources and building a base enough to defense and survive until morning. The longer the game period the harder the opponents are.To win you will need to reach specific objectives.
 The function of the Game might include:
- - Health Bar
- - Basic storage for representing Coin, Wood, Stone
- - Tell you the Day you survived
+ - Health Bar 
  - Basic Movement of Sprinting and walking
  - Simple AI(Enemy, Allies)
- - A menu of Start, Pause, Option for graphic, etc
- - A function that refreshes resource
+ - A menu of Start, Pause,  etc
  - ETC
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
